@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wurihuhanemi.pages.dev/sitemap.xml
